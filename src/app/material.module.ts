@@ -5,11 +5,11 @@ import {MatIconModule} from '@angular/material/icon';
 
 @NgModule({
     imports: [
-        MatButtonModule, 
+        MatButtonModule,
         MatIconModule
     ],
     exports: [
-        MatButtonModule, 
+        MatButtonModule,
         MatIconModule
     ]
 })
